@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "date": "August 02,2023 9:41:42AM",
+      "author": "Abdurayim",
+      "title": "shiftalt",
+      "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "id": 3,
+      "date": "August 02,2023 9:41:42AM",
+      "author": "Abdurayim",
+      "title": "Dread",
+      "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "id": 4,
+      "date": "August 02,2023 9:41:42AM",
+      "author": "edwis",
+      "title": "druid",
+      "body": "balallafa"
+    },
+    {
+      "id": 6,
+      "title": "uchinchi",
+      "date": "April 12, 2023 4:18:59 PM",
+      "author": "abdu",
+      "body": "dreifjsfhdjsdvvjvjdzbvjzvzdvzvzvvnjdjvxvd"
+    }
+  ]
+}
